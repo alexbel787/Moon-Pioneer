@@ -442,7 +442,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   maxCapacity: 10
-  productType: 0
   storedProductsList: []
   AS: {fileID: 9045020755448410033}
 --- !u!33 &3907389652656197011
